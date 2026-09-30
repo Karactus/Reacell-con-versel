@@ -12,7 +12,7 @@ function BarraNavegacion({
   return(
     <header className="barra">
       <button className="marca" onClick={volverInicio}>
-        <img src="/imagenes/logo.svg" className="logo-imagen" alt="Logo Reacell" />
+        <img src="/imagenes/logo.png" className="logo-imagen" alt="Logo Reacell" />
         <span>Reacell</span>
       </button>
 
