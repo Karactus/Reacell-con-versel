@@ -1,6 +1,6 @@
 import {celularesIniciales} from './data.js'
 
-const nombreCache='reacell-estado-v2'
+const nombreCache='reacell-estado-v3'
 const claveEstado='/__reacell_estado__'
 
 const estadoInicial={
