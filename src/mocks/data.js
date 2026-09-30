@@ -15,8 +15,8 @@ export const celularesIniciales = [
     estado:'Usado sin detalles',
     precio:119990,
     stock:3,
-    imagenFrontal:'/imagenes/samsung-a12-frente.svg',
-    imagenTrasera:'/imagenes/samsung-a12-trasera.svg',
+    imagenFrontal:'/imagenes/samsunga12_delante.jpeg',
+    imagenTrasera:'/imagenes/samsunga12_trasera.jpeg',
     componentes:['Pantalla PLS TFT de 6.5 pulgadas','Procesador MediaTek Helio P35','Cámara principal cuádruple de 48MP','Batería de 5000 mAh'],
     detalles:['Equipo revisado','Funcionamiento comprobado','Carga y conectividad verificadas']
   },
@@ -36,8 +36,8 @@ export const celularesIniciales = [
     estado:'Usado sin detalles',
     precio:139990,
     stock:4,
-    imagenFrontal:'/imagenes/redmi-9t-frente.svg',
-    imagenTrasera:'/imagenes/redmi-9t-trasera.svg',
+    imagenFrontal:'/imagenes/redmi9t_delante.jpeg',
+    imagenTrasera:'/imagenes/redmi9t_trasera.jpeg',
     componentes:['Pantalla FHD+ de 6.53 pulgadas','Snapdragon 662','Cámara principal de 48MP','Batería de 6000 mAh'],
     detalles:['Equipo reacondicionado','Pruebas de batería realizadas','Funcionamiento comprobado']
   },
@@ -57,8 +57,8 @@ export const celularesIniciales = [
     estado:'Usado con detalles',
     precio:89990,
     stock:2,
-    imagenFrontal:'/imagenes/redmi-10a-frente.svg',
-    imagenTrasera:'/imagenes/redmi-10a-trasera.svg',
+    imagenFrontal:'/imagenes/redmi10a_delante.jpeg',
+    imagenTrasera:'/imagenes/redmi10a_trasera.jpeg',
     componentes:['Pantalla HD+ de 6.53 pulgadas','MediaTek Helio G25','Cámara principal de 13MP','Batería de 5000 mAh'],
     detalles:['Equipo reacondicionado','Presenta detalles estéticos informados','Funcionamiento comprobado']
   },
@@ -78,8 +78,8 @@ export const celularesIniciales = [
     estado:'Nuevo',
     precio:189990,
     stock:2,
-    imagenFrontal:'/imagenes/samsung-a16-frente.svg',
-    imagenTrasera:'/imagenes/samsung-a16-trasera.svg',
+    imagenFrontal:'/imagenes/samsunga16_delante.jpeg',
+    imagenTrasera:'/imagenes/samsunga16_trasera.jpeg',
     componentes:['Pantalla Super AMOLED de 6.7 pulgadas','Exynos 1330','Cámara principal de 50MP','Batería de 5000 mAh'],
     detalles:['Equipo nuevo','Empaque y accesorios revisados','Garantía disponible']
   },
@@ -99,8 +99,8 @@ export const celularesIniciales = [
     estado:'Usado sin detalles',
     precio:129990,
     stock:3,
-    imagenFrontal:'/imagenes/honor-x7a-frente.svg',
-    imagenTrasera:'/imagenes/honor-x7a-trasera.svg',
+    imagenFrontal:'/imagenes/honorx7a_delante.jpeg',
+    imagenTrasera:'/imagenes/honorx7a_trasera.jpeg',
     componentes:['Pantalla LCD de 6.8 pulgadas','MediaTek Helio G37','Cámara principal de 50MP','Batería de 6000 mAh'],
     detalles:['Equipo reacondicionado','Funcionamiento comprobado','Carga rápida verificada']
   },
@@ -120,8 +120,8 @@ export const celularesIniciales = [
     estado:'Usado con detalles',
     precio:79990,
     stock:1,
-    imagenFrontal:'/imagenes/redmi-9-frente.svg',
-    imagenTrasera:'/imagenes/redmi-9-trasera.svg',
+    imagenFrontal:'/imagenes/redmi9_delante.jpeg',
+    imagenTrasera:'/imagenes/redmi9_trasera.jpeg',
     componentes:['Pantalla FHD+ de 6.53 pulgadas','MediaTek Helio G80','Cámara cuádruple de 13MP','Batería de 5020 mAh'],
     detalles:['Equipo reacondicionado','Presenta detalles estéticos informados','Funcionamiento comprobado']
   },
@@ -141,8 +141,8 @@ export const celularesIniciales = [
     estado:'Usado sin detalles',
     precio:94990,
     stock:2,
-    imagenFrontal:'/imagenes/motorola-g22-frente.svg',
-    imagenTrasera:'/imagenes/motorola-g22-trasera.svg',
+    imagenFrontal:'/imagenes/motog22_delante.jpeg',
+    imagenTrasera:'/imagenes/motog22_trasera.jpeg',
     componentes:['Pantalla IPS LCD de 6.5 pulgadas','MediaTek Helio G37','Cámara principal de 50MP','Batería de 5000 mAh'],
     detalles:['Equipo reacondicionado','Funcionamiento comprobado','Lector de huellas verificado']
   },
@@ -162,8 +162,8 @@ export const celularesIniciales = [
     estado:'Nuevo',
     precio:159990,
     stock:2,
-    imagenFrontal:'/imagenes/motorola-g60-frente.svg',
-    imagenTrasera:'/imagenes/motorola-g60-trasera.svg',
+    imagenFrontal:'/imagenes/motog60_delante.jpeg',
+    imagenTrasera:'/imagenes/motog60_trasera.jpeg',
     componentes:['Pantalla IPS de 6.8 pulgadas a 120 Hz','Snapdragon 732G','Cámara principal de 108MP','Batería de 6000 mAh'],
     detalles:['Equipo nuevo','Funcionamiento comprobado','Accesorios revisados']
   }
